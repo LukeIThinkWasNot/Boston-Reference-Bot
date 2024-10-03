@@ -1,7 +1,7 @@
 module.exports = {
 	apps: [
 		{
-			name: "Yo Reference",
+			name: "Boston Reference",
 			script: "./start.sh",
 			automation: false,
 			env: {
