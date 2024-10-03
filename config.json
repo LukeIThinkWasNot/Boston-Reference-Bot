@@ -1,0 +1,25 @@
+{
+	"botId": "1291419378306515098",
+	"devPrefix": ";;",
+	"version": "Production v1.0.0",
+	"defaultEmbedColor": "#3A89B6",
+	"testingSlashCommandsDisabled": false,
+	"allowContextMenuCommandsInDevMode": false,
+	"botLogo": "https://cdn.discordapp.com/avatars/1290855699949158420/9e890daafe4718e590ad661ed39aec78?size=256",
+	"defaultDiscordIcon": "https://better-default-discord.netlify.app/Icons/Blast-Black.png",
+	"developers": ["296823576156307467"],
+
+	"emojis": {
+		"checkMark": "<:checkmark:1255193560446402662>",
+		"crossMark": "<:crossmark:1255193453654966353>",
+		"rightGreenArrow": "<:rightgreen:1255193597528117358>",
+		"leftRedArrow": "<:leftred:1255193617665101865>",
+		"info": "",
+		"alert": ""
+	},
+
+	"supportServer": {
+		"guildId": "1110421074602102835",
+		"botEventLogsChannelId": "1291448034814853161"
+	}
+}

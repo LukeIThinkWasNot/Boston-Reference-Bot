@@ -1,0 +1,9 @@
+node_modules
+
+.env
+
+pnpm-lock.yaml
+start.bat
+package-lock.json
+yarn.lock
+.fake
